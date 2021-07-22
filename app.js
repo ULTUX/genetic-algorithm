@@ -29,7 +29,7 @@ function printGenerations(array) {
 }
 
 
-let text = "To be or not to be";
+let text = "This is a text that that i'm trying to guess";
 let population = new Population(text, 5000, 0.01);
 setup();
 
